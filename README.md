@@ -44,12 +44,12 @@
 ## ⚡ GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankit78v&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit78v&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit78v&theme=tokyo-night" />
 </p>
 
 ---
