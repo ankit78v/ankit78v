@@ -82,42 +82,55 @@ I'm a passionate **Full-Stack Developer** with expertise in **Rust backend devel
 
 ---
 
-## 📈 **GitHub Analytics**
+## 📈 GitHub Analytics
 
 <div align="center">
-  
-  <!-- Stats Cards -->
-  <table>
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankit78v&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=36D1DC&icon_color=5B86E5&text_color=ffffff&border_radius=10" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit78v&theme=radical&hide_border=true&background=0d1117&stroke=36D1DC&ring=5B86E5&fire=5B86E5&currStreakNum=36D1DC&sideNums=5B86E5&sideLabels=ffffff&dates=ffffff&border_radius=10" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <!-- Top Languages & Trophy -->
-  <table>
-    <tr>
-      <td width="50%">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit78v&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=36D1DC&text_color=ffffff&border_radius=10&langs_count=8" />
-      </td>
-      <td width="50%">
-        <img height="180em" src="https://github-profile-trophy.vercel.app/?username=ankit78v&theme=radical&no-frame=true&row=2&column=3&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-      </td>
-    </tr>
-  </table>
+
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ankit78v&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=36D1DC&icon_color=5B86E5&text_color=ffffff&border_radius=10"
+    height="180"
+    alt="GitHub Stats"
+  />
+
+  <!-- GitHub Streak -->
+  <img
+    src="https://streak-stats.demolab.com?user=ankit78v&theme=radical&hide_border=true&background=0d1117&stroke=36D1DC&ring=5B86E5&fire=5B86E5&currStreakNum=36D1DC&sideNums=5B86E5&sideLabels=ffffff&dates=ffffff&border_radius=10"
+    height="180"
+    alt="GitHub Streak"
+  />
 
 </div>
 
+<br>
+
+<div align="center">
+
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit78v&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=36D1DC&text_color=ffffff&border_radius=10&langs_count=8"
+    height="180"
+    alt="Top Languages"
+  />
+
+  <!-- GitHub Trophies -->
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ankit78v&theme=radical&no-frame=true&no-bg=true&row=2&column=3&margin-w=10&margin-h=10"
+    height="180"
+    alt="GitHub Trophies"
+  />
+
+</div>
+
+<br>
+
 <!-- Activity Graph -->
 <div align="center">
-  
-  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankit78v&theme=react-dark&hide_border=true&bg_color=0d1117&color=36D1DC&line=5B86E5&point=FFFFFF&area=true&area_color=5B86E5)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ankit78v&bg_color=0d1117&color=36D1DC&line=5B86E5&point=FFFFFF&area=true&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
 
 </div>
 
