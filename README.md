@@ -86,9 +86,17 @@ I'm a passionate **Full-Stack Developer** with expertise in **Rust backend devel
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ankit78v&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=36D1DC&icon_color=5B86E5&text_color=ffffff" height="180" alt="GitHub Stats">
+<img
+ src="https://github-readme-stats.vercel.app/api?username=ankit78v&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=36D1DC&icon_color=5B86E5&text_color=ffffff"
+ height="180"
+ alt="GitHub Stats"
+/>
 
-<img src="https://streak-stats.demolab.com?user=ankit78v&theme=radical&hide_border=true&background=0d1117&stroke=36D1DC&ring=5B86E5&fire=5B86E5&currStreakNum=36D1DC&sideNums=5B86E5&sideLabels=ffffff&dates=ffffff" height="180" alt="GitHub Streak">
+<img
+ src="https://streak-stats.demolab.com?user=ankit78v&theme=radical&hide_border=true&background=0d1117&stroke=36D1DC&ring=5B86E5&fire=5B86E5&currStreakNum=36D1DC&sideNums=5B86E5&sideLabels=ffffff&dates=ffffff"
+ height="180"
+ alt="GitHub Streak"
+/>
 
 </div>
 
@@ -96,9 +104,29 @@ I'm a passionate **Full-Stack Developer** with expertise in **Rust backend devel
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit78v&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=36D1DC&text_color=ffffff&langs_count=8" height="180" alt="Top Languages">
+<img
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit78v&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=36D1DC&text_color=ffffff&langs_count=8"
+ height="180"
+ alt="Top Languages"
+/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ankit78v&theme=radical&no-frame=true&no-bg=true&row=2&column=3&margin-w=10&margin-h=10" height="180" alt="GitHub Trophies">
+<img
+ src="https://github-profile-trophy.vercel.app/?username=ankit78v&theme=radical&no-frame=true&no-bg=true&row=2&column=3&margin-w=10&margin-h=10"
+ height="180"
+ alt="GitHub Trophies"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+ src="https://github-readme-activity-graph.vercel.app/graph?username=ankit78v&bg_color=0d1117&color=36D1DC&line=5B86E5&point=FFFFFF&area=true&hide_border=true"
+ width="95%"
+ alt="GitHub Activity Graph"
+/>
 
 </div>
 
